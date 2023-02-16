@@ -9,8 +9,7 @@
 - 🎓 I'm currently studying in the department of informatics engineering at Yudharta University, Pasuruan
 -  ⚔ I'm currently learning more about UI/UX and native Android development
 - 📫 How to reach me: [Twitter](https://twitter.com/AkhmadAldi11), [Instagram](https://www.instagram.com/akh.aldi19)
-- 🧑 Pronouns: He/Him
-- 🗣 I'm speak Bahasa Indonesia (Native), English (Intermediate) 
+- 🗣 I'm speak Bahasa Indonesia (Native), English ( Elementary ) 
 
 ## **🧑‍💻 Stats**
 
