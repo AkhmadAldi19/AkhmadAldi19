@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD042-->
 
-# Hi there, I'm **[Akhmad Aldi](https://www.linkedin.com/in/akhmad-aldi-8449191a9/)**!
+# Hi there, I'm **[Akhmad Aldi](https://www.linkedin.com/in/akhmad-aldi-8449191a9/)**
 
 ---
 
